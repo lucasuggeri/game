@@ -12,15 +12,22 @@ public class PlayerInputReader : MonoBehaviour
     public Vector2 MoveInput { get; private set; }
     public bool InteractPressed { get; private set; }
     public bool InteractJustPressed => _interact.WasPressedThisFrame();
+    private InputActionAsset _runtimeActions;
+
     private void Awake()
     {
-        _playerMap = inputActions.FindActionMap("Player", throwIfNotFound: true);
-        _move = _playerMap.FindAction("Move", throwIfNotFound: true);
-        _interact = _playerMap.FindAction("Interact", throwIfNotFound: true);
+        _runtimeActions = Instantiate(inputActions);
 
-
+        _playerMap = _runtimeActions.FindActionMap("Player", true);
+        _move = _playerMap.FindAction("Move", true);
+        _interact = _playerMap.FindAction("Interact", true);
     }
 
+    private void OnDestroy()
+    {
+        if (_runtimeActions != null)
+            Destroy(_runtimeActions);
+    }
     private void Update()
     {
 
