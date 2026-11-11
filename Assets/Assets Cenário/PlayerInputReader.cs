@@ -23,7 +23,7 @@ public class PlayerInputReader : MonoBehaviour
 
     private void Update()
     {
-      
+
     }
     private void OnEnable()
     {

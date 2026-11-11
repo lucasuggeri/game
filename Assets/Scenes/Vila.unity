@@ -41861,6 +41861,7 @@ GameObject:
   - component: {fileID: 117018353}
   - component: {fileID: 117018354}
   - component: {fileID: 117018355}
+  - component: {fileID: 117018356}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -41970,7 +41971,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 958e83fcb9cd6f84a920aedcec1e0166, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  movespeed: 2
+  movespeed: 5
+  inputReader: {fileID: 117018356}
+  rb: {fileID: 117018353}
+--- !u!114 &117018356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 117018351}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01b2b1f8fb6e4be40ba5cf7bb6ad431c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerInputReader
+  inputActions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
 --- !u!1 &129877135
 GameObject:
   m_ObjectHideFlags: 0
@@ -43479,7 +43495,7 @@ MonoBehaviour:
   m_DynamicOriginRange: 100
   m_ControlPath: <Gamepad>/leftStick
   m_Behaviour: 0
-  m_UseIsolatedInputActions: 1
+  m_UseIsolatedInputActions: 0
   m_PointerDownAction:
     m_Name: Pointer Down
     m_Type: 0
