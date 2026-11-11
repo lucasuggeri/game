@@ -9,11 +9,27 @@ public class LevelManager : MonoBehaviour
     {
         PlayerController player = FindAnyObjectByType<PlayerController>();
 
-        int spawnIndex = GameManager.instance.GetSpawnPoint(SceneManager.GetActiveScene().name);
+        if (GameManager.instance == null)
+        {
+            Debug.LogError("GameManager.instance está NULL!");
+            return;
+        }
+
+        if (player == null)
+        {
+            Debug.LogError("PlayerController não encontrado na cena!");
+            return;
+        }
+
+        int spawnIndex = GameManager.instance.GetSpawnPoint( SceneManager.GetActiveScene().name );
 
         if (spawnIndex >= 0 && spawnIndex < _spawnPoints.Length)
         {
             player.transform.position = _spawnPoints[spawnIndex].position;
+        }
+        else
+        {
+            Debug.LogWarning("Índice de spawn inválido!");
         }
     }
 
