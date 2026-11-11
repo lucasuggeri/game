@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: c19915054f58c634ebdd8bc16ab1fcb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5711783101313313760
+    second: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_0"
+  - first:
+      213: 2058919368483537736
+    second: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_1"
+  - first:
+      213: -669943415709541480
+    second: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_2"
+  - first:
+      213: -3491799645481976551
+    second: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_3"
+  - first:
+      213: 8282655255194674713
+    second: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_4"
+  - first:
+      213: 2073749700798052929
+    second: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_5"
+  - first:
+      213: -5504529335656858908
+    second: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_6"
+  - first:
+      213: -7029418350109465164
+    second: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_7"
+  - first:
+      213: 2730788903444791521
+    second: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_8"
+  - first:
+      213: -3321641258402913517
+    second: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_9"
+  - first:
+      213: 3030775067425401810
+    second: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_10"
+  - first:
+      213: 3875492021632766306
+    second: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_11"
+  - first:
+      213: 1837315140368580144
+    second: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_12"
+  - first:
+      213: -5949797733688491870
+    second: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_13"
+  - first:
+      213: -4427243537224811243
+    second: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_14"
+  - first:
+      213: 6821756657717929736
+    second: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_15"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_1"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84302abc140c29c10800000000000000
+      internalID: 2058919368483537736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_2"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b550f4302e3b6f0800000000000000
+      internalID: -669943415709541480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_3"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d363809b2aa8fc0800000000000000
+      internalID: -3491799645481976551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_4"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916a6ea3217e1f270800000000000000
+      internalID: 8282655255194674713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_6"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eab474cbbbfb93b0800000000000000
+      internalID: -5504529335656858908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_7"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5ec18014d727e90800000000000000
+      internalID: -7029418350109465164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_8"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0c7621a06b5e520800000000000000
+      internalID: 2730788903444791521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_9"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313ec91dfd827e1d0800000000000000
+      internalID: -3321641258402913517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_10"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db6008bdd97f0a20800000000000000
+      internalID: 3030775067425401810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_11"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261184fd57388c530800000000000000
+      internalID: 3875492021632766306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_12"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ebd1ab2647f7910800000000000000
+      internalID: 1837315140368580144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_13"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0c21e0c721e6da0800000000000000
+      internalID: -5949797733688491870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_15"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807ee67798fbbae50800000000000000
+      internalID: 6821756657717929736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_16"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cdc51b1345e4942abedb859630b4c9
+      internalID: -2110927346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_17"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54f70696b1025744860ba302b20f84b
+      internalID: -1340028510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_18"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a054685162e26438da923f22d28819
+      internalID: -724334526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2016db78a8f9243498cebb416767f1b5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_0": 5711783101313313760
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_1": 2058919368483537736
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_10": 3030775067425401810
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_11": 3875492021632766306
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_12": 1837315140368580144
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_13": -5949797733688491870
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_14": -4427243537224811243
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_15": 6821756657717929736
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_16": -2110927346
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_17": -1340028510
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_18": -724334526
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_2": -669943415709541480
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_3": -3491799645481976551
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_4": 8282655255194674713
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_5": 2073749700798052929
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_6": -5504529335656858908
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_7": -7029418350109465164
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_8": 2730788903444791521
+      "Spritesheet de Garotinha Pixelada em Quatro Dire\xE7\xF5es-Photoroom_9": -3321641258402913517
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
