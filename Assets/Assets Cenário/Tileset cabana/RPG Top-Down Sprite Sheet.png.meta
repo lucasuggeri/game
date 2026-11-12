@@ -1,0 +1,1640 @@
+fileFormatVersion: 2
+guid: 307f8b97523bcc14c965d7b8637764ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -504835713496887221
+    second: RPG Top-Down Sprite Sheet_0
+  - first:
+      213: -1322025131002769465
+    second: RPG Top-Down Sprite Sheet_1
+  - first:
+      213: -8134584285642783918
+    second: RPG Top-Down Sprite Sheet_2
+  - first:
+      213: -4965982895293148144
+    second: RPG Top-Down Sprite Sheet_3
+  - first:
+      213: -1318124941708432966
+    second: RPG Top-Down Sprite Sheet_4
+  - first:
+      213: -1035318430637648084
+    second: RPG Top-Down Sprite Sheet_5
+  - first:
+      213: -8996259793777772990
+    second: RPG Top-Down Sprite Sheet_6
+  - first:
+      213: 1526004440950927968
+    second: RPG Top-Down Sprite Sheet_7
+  - first:
+      213: -1064862831195777667
+    second: RPG Top-Down Sprite Sheet_8
+  - first:
+      213: -737811624872012192
+    second: RPG Top-Down Sprite Sheet_9
+  - first:
+      213: 6314149703128240166
+    second: RPG Top-Down Sprite Sheet_10
+  - first:
+      213: -1443405705740429859
+    second: RPG Top-Down Sprite Sheet_11
+  - first:
+      213: -2199194624513872021
+    second: RPG Top-Down Sprite Sheet_12
+  - first:
+      213: 7229460381313826355
+    second: RPG Top-Down Sprite Sheet_13
+  - first:
+      213: -3930147951374233292
+    second: RPG Top-Down Sprite Sheet_14
+  - first:
+      213: -1286455526118108205
+    second: RPG Top-Down Sprite Sheet_15
+  - first:
+      213: 8851179868076733660
+    second: RPG Top-Down Sprite Sheet_16
+  - first:
+      213: -2173862055899243270
+    second: RPG Top-Down Sprite Sheet_17
+  - first:
+      213: -5853966391176577355
+    second: RPG Top-Down Sprite Sheet_18
+  - first:
+      213: -8169084286990387843
+    second: RPG Top-Down Sprite Sheet_19
+  - first:
+      213: -1651165960226877015
+    second: RPG Top-Down Sprite Sheet_20
+  - first:
+      213: 103330053071930817
+    second: RPG Top-Down Sprite Sheet_21
+  - first:
+      213: -6288503387060948166
+    second: RPG Top-Down Sprite Sheet_22
+  - first:
+      213: -451900981923012531
+    second: RPG Top-Down Sprite Sheet_23
+  - first:
+      213: -5805756975322436427
+    second: RPG Top-Down Sprite Sheet_24
+  - first:
+      213: 4829376111584455494
+    second: RPG Top-Down Sprite Sheet_25
+  - first:
+      213: -4848444115205579859
+    second: RPG Top-Down Sprite Sheet_26
+  - first:
+      213: 8752885937002673586
+    second: RPG Top-Down Sprite Sheet_27
+  - first:
+      213: 1001068749433233484
+    second: RPG Top-Down Sprite Sheet_28
+  - first:
+      213: -3950589215472326942
+    second: RPG Top-Down Sprite Sheet_29
+  - first:
+      213: 1364309324271759590
+    second: RPG Top-Down Sprite Sheet_30
+  - first:
+      213: 2723976548846451902
+    second: RPG Top-Down Sprite Sheet_31
+  - first:
+      213: 4310578215363147239
+    second: RPG Top-Down Sprite Sheet_32
+  - first:
+      213: 7062131567386645434
+    second: RPG Top-Down Sprite Sheet_33
+  - first:
+      213: 1854357108328255829
+    second: RPG Top-Down Sprite Sheet_34
+  - first:
+      213: -4210788134812786306
+    second: RPG Top-Down Sprite Sheet_35
+  - first:
+      213: -7876941438784255634
+    second: RPG Top-Down Sprite Sheet_36
+  - first:
+      213: -1622668199404238108
+    second: RPG Top-Down Sprite Sheet_37
+  - first:
+      213: -9158433751824478649
+    second: RPG Top-Down Sprite Sheet_38
+  - first:
+      213: 7349418257057993783
+    second: RPG Top-Down Sprite Sheet_39
+  - first:
+      213: -5106737340868996234
+    second: RPG Top-Down Sprite Sheet_40
+  - first:
+      213: -7053191697977021958
+    second: RPG Top-Down Sprite Sheet_41
+  - first:
+      213: 5364145756197979686
+    second: RPG Top-Down Sprite Sheet_42
+  - first:
+      213: -8572847653182685819
+    second: RPG Top-Down Sprite Sheet_43
+  - first:
+      213: 4179135572922482749
+    second: RPG Top-Down Sprite Sheet_44
+  - first:
+      213: -6396974447696383068
+    second: RPG Top-Down Sprite Sheet_45
+  - first:
+      213: 7917709513673841153
+    second: RPG Top-Down Sprite Sheet_46
+  - first:
+      213: -4639835594140416192
+    second: RPG Top-Down Sprite Sheet_47
+  - first:
+      213: 2132326926185433766
+    second: RPG Top-Down Sprite Sheet_48
+  - first:
+      213: -36099199207343402
+    second: RPG Top-Down Sprite Sheet_49
+  - first:
+      213: 1933611810281462379
+    second: RPG Top-Down Sprite Sheet_50
+  - first:
+      213: -2253596362829603884
+    second: RPG Top-Down Sprite Sheet_51
+  - first:
+      213: -8943028616187975906
+    second: RPG Top-Down Sprite Sheet_52
+  - first:
+      213: 9162756553372473129
+    second: RPG Top-Down Sprite Sheet_53
+  - first:
+      213: -5306900542760013556
+    second: RPG Top-Down Sprite Sheet_54
+  - first:
+      213: 3201631614724199933
+    second: RPG Top-Down Sprite Sheet_55
+  - first:
+      213: 2134068300108825072
+    second: RPG Top-Down Sprite Sheet_56
+  - first:
+      213: -844667179382830429
+    second: RPG Top-Down Sprite Sheet_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b405613e7967ef8f0800000000000000
+      internalID: -504835713496887221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfc072d52937ade0800000000000000
+      internalID: -1322025131002769465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 154
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25389cae0b62c1f80800000000000000
+      internalID: -8134584285642783918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 154
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014d26d1ed8451bb0800000000000000
+      internalID: -4965982895293148144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 156
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9e2e7695415bde0800000000000000
+      internalID: -1318124941708432966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 153
+        width: 112
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c279d686f5fc1a1f0800000000000000
+      internalID: -1035318430637648084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 168
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2463fbcb16dd62380800000000000000
+      internalID: -8996259793777772990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 116
+        width: 130
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0627c8434f47d2510800000000000000
+      internalID: 1526004440950927968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 116
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d751f0c95e8d831f0800000000000000
+      internalID: -1064862831195777667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 155
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066995c7c34c2c5f0800000000000000
+      internalID: -737811624872012192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 156
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620d89183bd50a750800000000000000
+      internalID: 6314149703128240166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 9
+        width: 94
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5d19a782ef7fbe0800000000000000
+      internalID: -1443405705740429859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fe6ed0424ea71e0800000000000000
+      internalID: -2199194624513872021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 122
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e78f9d9e3345460800000000000000
+      internalID: 7229460381313826355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 122
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4311c93d24f4579c0800000000000000
+      internalID: -3930147951374233292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 118
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d35462d387952ee0800000000000000
+      internalID: -1286455526118108205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 115
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd47dc7c135b5da70800000000000000
+      internalID: 8851179868076733660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcdc6f4af3e4d1e0800000000000000
+      internalID: -2173862055899243270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 70
+        width: 98
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be38d6359882cea0800000000000000
+      internalID: -5853966391176577355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 92
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7576b56f1591ae80800000000000000
+      internalID: -8169084286990387843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 100
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1d573be41e519e0800000000000000
+      internalID: -1651165960226877015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 71
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c589f3c22a1f6100800000000000000
+      internalID: 103330053071930817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 6
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a333465cc7fbab8a0800000000000000
+      internalID: -6288503387060948166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 84
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4024d283768ab9f0800000000000000
+      internalID: -451900981923012531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 71
+        width: 75
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bce8a98acecd6fa0800000000000000
+      internalID: -5805756975322436427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 73
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bafb18cf3650340800000000000000
+      internalID: 4829376111584455494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 70
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab96dfe3cdd6bcb0800000000000000
+      internalID: -4848444115205579859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 73
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b57e8a826f787970800000000000000
+      internalID: 8752885937002673586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 36
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4066b549b284ed00800000000000000
+      internalID: 1001068749433233484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e668462a00bc29c0800000000000000
+      internalID: -3950589215472326942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 42
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0b8fc1a100fe210800000000000000
+      internalID: 1364309324271759590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 42
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcbc7a2d328dc520800000000000000
+      internalID: 2723976548846451902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 42
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5f1476c0042db30800000000000000
+      internalID: 4310578215363147239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 42
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab357276e3bb10260800000000000000
+      internalID: 7062131567386645434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 38
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55150a817fffbb910800000000000000
+      internalID: 1854357108328255829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 49
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71ed0840864095c0800000000000000
+      internalID: -4210788134812786306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 51
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69c5b8ce7b7fa290800000000000000
+      internalID: -7876941438784255634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 33
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea0032bedf1b79e0800000000000000
+      internalID: -1622668199404238108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 54
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ecd83b605b6e080800000000000000
+      internalID: -9158433751824478649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73456b547f06ef560800000000000000
+      internalID: 7349418257057993783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 10
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673d744f1793129b0800000000000000
+      internalID: -5106737340868996234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 7
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9685525870e1e90800000000000000
+      internalID: -7053191697977021958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 6
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62689911526417a40800000000000000
+      internalID: 5364145756197979686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 9
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d3186fa70270980800000000000000
+      internalID: -8572847653182685819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 6
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d304e3c59a54ff930800000000000000
+      internalID: 4179135572922482749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 6
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a37ec7e1a16937a0800000000000000
+      internalID: -6396974447696383068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 35
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a92455ada51ed60800000000000000
+      internalID: 7917709513673841153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 8
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0470c0b2c1efb9fb0800000000000000
+      internalID: -4639835594140416192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 6
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa8844ba0c879d10800000000000000
+      internalID: 2132326926185433766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 5
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6daf19638ffbf7ff0800000000000000
+      internalID: -36099199207343402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 15
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a935d52b195da10800000000000000
+      internalID: 1933611810281462379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 15
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbdd6e4c0e99b0e0800000000000000
+      internalID: -2253596362829603884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 17
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1766f31bdaf3e380800000000000000
+      internalID: -8943028616187975906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 5
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9271627f986a82f70800000000000000
+      internalID: 9162756553372473129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 17
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c013672d21a1a56b0800000000000000
+      internalID: -5306900542760013556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 5
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5db499dfa7e6c20800000000000000
+      internalID: 3201631614724199933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 6
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1886aefcbbd9d10800000000000000
+      internalID: 2134068300108825072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Top-Down Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 8
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa8473fca32744f0800000000000000
+      internalID: -844667179382830429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RPG Top-Down Sprite Sheet_0: -504835713496887221
+      RPG Top-Down Sprite Sheet_1: -1322025131002769465
+      RPG Top-Down Sprite Sheet_10: 6314149703128240166
+      RPG Top-Down Sprite Sheet_11: -1443405705740429859
+      RPG Top-Down Sprite Sheet_12: -2199194624513872021
+      RPG Top-Down Sprite Sheet_13: 7229460381313826355
+      RPG Top-Down Sprite Sheet_14: -3930147951374233292
+      RPG Top-Down Sprite Sheet_15: -1286455526118108205
+      RPG Top-Down Sprite Sheet_16: 8851179868076733660
+      RPG Top-Down Sprite Sheet_17: -2173862055899243270
+      RPG Top-Down Sprite Sheet_18: -5853966391176577355
+      RPG Top-Down Sprite Sheet_19: -8169084286990387843
+      RPG Top-Down Sprite Sheet_2: -8134584285642783918
+      RPG Top-Down Sprite Sheet_20: -1651165960226877015
+      RPG Top-Down Sprite Sheet_21: 103330053071930817
+      RPG Top-Down Sprite Sheet_22: -6288503387060948166
+      RPG Top-Down Sprite Sheet_23: -451900981923012531
+      RPG Top-Down Sprite Sheet_24: -5805756975322436427
+      RPG Top-Down Sprite Sheet_25: 4829376111584455494
+      RPG Top-Down Sprite Sheet_26: -4848444115205579859
+      RPG Top-Down Sprite Sheet_27: 8752885937002673586
+      RPG Top-Down Sprite Sheet_28: 1001068749433233484
+      RPG Top-Down Sprite Sheet_29: -3950589215472326942
+      RPG Top-Down Sprite Sheet_3: -4965982895293148144
+      RPG Top-Down Sprite Sheet_30: 1364309324271759590
+      RPG Top-Down Sprite Sheet_31: 2723976548846451902
+      RPG Top-Down Sprite Sheet_32: 4310578215363147239
+      RPG Top-Down Sprite Sheet_33: 7062131567386645434
+      RPG Top-Down Sprite Sheet_34: 1854357108328255829
+      RPG Top-Down Sprite Sheet_35: -4210788134812786306
+      RPG Top-Down Sprite Sheet_36: -7876941438784255634
+      RPG Top-Down Sprite Sheet_37: -1622668199404238108
+      RPG Top-Down Sprite Sheet_38: -9158433751824478649
+      RPG Top-Down Sprite Sheet_39: 7349418257057993783
+      RPG Top-Down Sprite Sheet_4: -1318124941708432966
+      RPG Top-Down Sprite Sheet_40: -5106737340868996234
+      RPG Top-Down Sprite Sheet_41: -7053191697977021958
+      RPG Top-Down Sprite Sheet_42: 5364145756197979686
+      RPG Top-Down Sprite Sheet_43: -8572847653182685819
+      RPG Top-Down Sprite Sheet_44: 4179135572922482749
+      RPG Top-Down Sprite Sheet_45: -6396974447696383068
+      RPG Top-Down Sprite Sheet_46: 7917709513673841153
+      RPG Top-Down Sprite Sheet_47: -4639835594140416192
+      RPG Top-Down Sprite Sheet_48: 2132326926185433766
+      RPG Top-Down Sprite Sheet_49: -36099199207343402
+      RPG Top-Down Sprite Sheet_5: -1035318430637648084
+      RPG Top-Down Sprite Sheet_50: 1933611810281462379
+      RPG Top-Down Sprite Sheet_51: -2253596362829603884
+      RPG Top-Down Sprite Sheet_52: -8943028616187975906
+      RPG Top-Down Sprite Sheet_53: 9162756553372473129
+      RPG Top-Down Sprite Sheet_54: -5306900542760013556
+      RPG Top-Down Sprite Sheet_55: 3201631614724199933
+      RPG Top-Down Sprite Sheet_56: 2134068300108825072
+      RPG Top-Down Sprite Sheet_57: -844667179382830429
+      RPG Top-Down Sprite Sheet_6: -8996259793777772990
+      RPG Top-Down Sprite Sheet_7: 1526004440950927968
+      RPG Top-Down Sprite Sheet_8: -1064862831195777667
+      RPG Top-Down Sprite Sheet_9: -737811624872012192
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
