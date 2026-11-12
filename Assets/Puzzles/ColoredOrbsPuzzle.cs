@@ -30,7 +30,7 @@ public class ColoredOrbsPuzzle : MonoBehaviour
 
     private void CheckForClear()
     {
-       
+        GameManager.instance.MarkPuzzleAsCompleted(0);
     }
 
 

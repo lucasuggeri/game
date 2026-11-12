@@ -6,7 +6,7 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
 
-    private bool[] _puzzlesCompleted;
+  [SerializeField]  private bool[] _puzzlesCompleted;
 
     public bool[] PuzzlesCompleted => _puzzlesCompleted;
 
