@@ -33,7 +33,7 @@ public class TriggerInteraction : MonoBehaviour
     {
         if (inputReader != null && inputReader.InteractPressed)
         {
-            Debug.Log("Interact trigger");
+           
             OnInteract?.Invoke();
         }
     }

@@ -17,5 +17,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Cabana_3.unity
     guid: e0b41e671327bf74aa9591701f6f2e29
+  - enabled: 1
+    path: Assets/Scenes/PERGUNTA.unity
+    guid: c0cc3b53396313a48bc473711bdb5d59
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

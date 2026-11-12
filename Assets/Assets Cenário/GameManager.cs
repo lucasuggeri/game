@@ -6,9 +6,8 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
 
-  [SerializeField]  private bool[] _puzzlesCompleted;
-
-    public bool[] PuzzlesCompleted => _puzzlesCompleted;
+    [SerializeField] public bool[] _puzzlesCompleted;
+ public bool[] PuzzlesCompleted => _puzzlesCompleted;
 
   
     
@@ -85,13 +84,31 @@ public class GameManager : MonoBehaviour
 
     public void MarkPuzzleAsCompleted( int puzzleNumber)
     {
-        if(puzzleNumber < 0 || puzzleNumber > _puzzlesCompleted.Length)
+        if (puzzleNumber < 0 || puzzleNumber >= _puzzlesCompleted.Length)
         {
             Debug.Log("Numero de puzzle inválido");
             return;
         }
 
         _puzzlesCompleted[puzzleNumber] = true;
+    }
+
+    public bool CheckForPuzzlesCompletion()
+    {
+        for (int i = 0; i < _puzzlesCompleted.Length; i++)
+        {
+            if (_puzzlesCompleted[i] == true) 
+            continue;
+            else if (_puzzlesCompleted[i]==false)
+            {
+                Debug.Log("Não completou todos os puzzles");
+                return false;
+            }
+        }
+
+
+        Debug.Log("Completou os Puzzles");
+        return true;
     }
 
 }
