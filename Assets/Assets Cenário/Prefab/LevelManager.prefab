@@ -124,6 +124,15 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnplayerInRangeUpdated:
+    m_PersistentCalls:
+      m_Calls: []
+  OnplayerEnterRange:
+    m_PersistentCalls:
+      m_Calls: []
+  OnplayerLeaveRange:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2634024794538262203
 GameObject:
   m_ObjectHideFlags: 0
@@ -201,6 +210,15 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnplayerInRangeUpdated:
+    m_PersistentCalls:
+      m_Calls: []
+  OnplayerEnterRange:
+    m_PersistentCalls:
+      m_Calls: []
+  OnplayerLeaveRange:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &3401892675403647039
 GameObject:
   m_ObjectHideFlags: 0
@@ -325,6 +343,15 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  OnplayerInRangeUpdated:
+    m_PersistentCalls:
+      m_Calls: []
+  OnplayerEnterRange:
+    m_PersistentCalls:
+      m_Calls: []
+  OnplayerLeaveRange:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &3763164026192878929
 GameObject:
   m_ObjectHideFlags: 0
@@ -502,3 +529,4 @@ MonoBehaviour:
   - {fileID: 8888468173397362929}
   - {fileID: 787301999598029949}
   - {fileID: 6305429759402929250}
+  KeyToQuestionScene: {fileID: 0}
