@@ -5,6 +5,18 @@ public class LevelManager : MonoBehaviour
 {
     [SerializeField] private Transform[] _spawnPoints;
 
+    
+
+    public void ClearPuzzle(int puzzleNumber)
+    {
+        if (GameManager.instance == null)
+        {
+            Debug.LogError( "Puzzle Clear : GameManager.instance está NULL!");
+            return;
+        }
+
+        GameManager.instance.MarkPuzzleAsCompleted(puzzleNumber);
+    }
     private void Start()
     {
         PlayerController player = FindAnyObjectByType<PlayerController>();
