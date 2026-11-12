@@ -42851,6 +42851,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fd1363a612507b499a3ea6978c6d7a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
+  _puzzlesCompleted: 0000y
 --- !u!4 &644335248
 Transform:
   m_ObjectHideFlags: 0
@@ -44948,7 +44949,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1713521202
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -95572,6 +95573,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 404327537346131132, guid: eb5c152a95a62e84c8de7da7d305d074, type: 3}
+      propertyPath: nextSceneName
+      value: Cabana_1
+      objectReference: {fileID: 0}
     - target: {fileID: 7048635642249066255, guid: eb5c152a95a62e84c8de7da7d305d074, type: 3}
       propertyPath: m_Name
       value: LevelManager
@@ -95669,22 +95674,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6403297693975148047, guid: a5cfdcf391fd66f429a7c558b57e6d17, type: 3}
-      propertyPath: m_Size.x
-      value: 0.44966125
-      objectReference: {fileID: 0}
-    - target: {fileID: 6403297693975148047, guid: a5cfdcf391fd66f429a7c558b57e6d17, type: 3}
-      propertyPath: m_Size.y
-      value: 1.8166275
-      objectReference: {fileID: 0}
-    - target: {fileID: 6403297693975148047, guid: a5cfdcf391fd66f429a7c558b57e6d17, type: 3}
-      propertyPath: m_Offset.x
-      value: 0.008876801
-      objectReference: {fileID: 0}
-    - target: {fileID: 6403297693975148047, guid: a5cfdcf391fd66f429a7c558b57e6d17, type: 3}
-      propertyPath: m_Offset.y
-      value: -0.28404617
-      objectReference: {fileID: 0}
+    - target: {fileID: 2599298719229471964, guid: a5cfdcf391fd66f429a7c558b57e6d17, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1115014836}
     - target: {fileID: 8679496986239165284, guid: a5cfdcf391fd66f429a7c558b57e6d17, type: 3}
       propertyPath: m_Name
       value: Player
