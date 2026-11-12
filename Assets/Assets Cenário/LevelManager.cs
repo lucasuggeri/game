@@ -5,8 +5,8 @@ public class LevelManager : MonoBehaviour
 {
     [SerializeField] private Transform[] _spawnPoints;
 
-    
 
+   [SerializeField] private GameObject KeyToQuestionScene;
     public void ClearPuzzle(int puzzleNumber)
     {
         if (GameManager.instance == null)
@@ -16,6 +16,21 @@ public class LevelManager : MonoBehaviour
         }
 
         GameManager.instance.MarkPuzzleAsCompleted(puzzleNumber);
+    }
+
+    public void TryToGetKey()
+    {
+        if(GameManager.instance.CheckForPuzzlesCompletion())
+        {
+            Debug.Log("Aqui está a chave");
+
+            if (KeyToQuestionScene != null) KeyToQuestionScene.SetActive(true);
+        }
+    }
+
+    public void AcceptProposal()
+    {
+        Debug.Log("Aceitou !!!!!");
     }
     private void Start()
     {

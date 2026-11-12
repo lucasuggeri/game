@@ -17,34 +17,27 @@ public class SceneTransitioner : MonoBehaviour
 
     private LevelManager levelManager;
 
+    private void OnEnable()
+    {
+        StartCoroutine(DelayTransition());
+    }
     private void Start()
     {
         levelManager = FindAnyObjectByType<LevelManager>();
         collider2D = GetComponent<Collider2D>();
-        DelayTransition();
+       
     }
+
     private IEnumerator DelayTransition()
     {
         canTransition = false;
-
         yield return new WaitForSeconds(transitionCooldown);
-
         canTransition = true;
     }
-    private void OnTriggerEnter2D(Collider2D collision)
+    public void TransitionScene()
     {
-        if (!canTransition)
-            return;
-
-        if (collision.TryGetComponent<PlayerController>(out _) && canTransition)
-        {
-            levelManager.TransitionToScene(nextSceneName, destinationSpawnIndex, sceneSpawnIndex);
-        }
+        if (!canTransition) return;
+        levelManager.TransitionToScene(nextSceneName, destinationSpawnIndex, sceneSpawnIndex);
     }
-
-
-    private void OnTriggerExit2D(Collider2D collision)
-    {
-        if(!canTransition) canTransition=true;
-    }
+   
 }
