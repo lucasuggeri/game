@@ -4,24 +4,34 @@ using UnityEngine.Events;
 public class TriggerInteraction : MonoBehaviour
 {
     [SerializeField] public UnityEvent OnInteract;
-
-    private PlayerInputReader _playerInRange;
-
+    private bool playerInRange;
+    private PlayerInputReader inputReader;
+    public UnityEvent OnplayerInRangeUpdated;
+    public UnityEvent OnplayerEnterRange;
+    public UnityEvent OnplayerLeaveRange;
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.TryGetComponent(out PlayerInputReader reader))
-            _playerInRange = reader;
+        {
+            inputReader = reader;
+            SetPlayerInRange(true);
+        }
+           
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.TryGetComponent(out PlayerInputReader reader) && reader == _playerInRange)
-            _playerInRange = null;
+        if (collision.TryGetComponent(out PlayerInputReader reader) && reader == inputReader)
+        {
+            inputReader = null;
+            SetPlayerInRange(false);
+        }
+            
     }
 
     private void Update()
     {
-        if (_playerInRange != null && _playerInRange.InteractPressed)
+        if (inputReader != null && inputReader.InteractPressed)
         {
             Debug.Log("Interact trigger");
             OnInteract?.Invoke();
@@ -30,6 +40,23 @@ public class TriggerInteraction : MonoBehaviour
 
     private void OnDisable()
     {
-        _playerInRange = null;
+        inputReader = null;
+    }
+
+    
+    public void SetPlayerInRange(bool value)
+    {
+        playerInRange = value;
+
+        if(!playerInRange)
+        {
+            OnplayerLeaveRange?.Invoke();
+        }
+        else if (playerInRange)
+        {
+            OnplayerEnterRange?.Invoke();
+        }
+
+            OnplayerInRangeUpdated?.Invoke();
     }
 }
