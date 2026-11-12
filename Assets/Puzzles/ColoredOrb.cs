@@ -1,11 +1,13 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.Rendering.Universal;
 
 public class ColoredOrb : MonoBehaviour
 {
    [SerializeField] private int _OrbNumber;
     private bool isFlashing;
 
+    [SerializeField] private Light2D spotLight;
     private SpriteRenderer spriteRenderer;
     public int OrbNumber => _OrbNumber;
     private ColoredOrbsPuzzle coloredOrbsPuzzle;
@@ -14,25 +16,22 @@ public class ColoredOrb : MonoBehaviour
     {
         coloredOrbsPuzzle = GetComponentInParent<ColoredOrbsPuzzle>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+      
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    public void CheckOrb()
     {
-        if(collision.gameObject.TryGetComponent<PlayerController>(out _))
-        {
-            coloredOrbsPuzzle.CheckCollectedOrb(_OrbNumber);
-        }
+        if (coloredOrbsPuzzle.CheckCollectedOrb(_OrbNumber)) spotLight.enabled = true;
     }
 
     public IEnumerator FlashSpriteRoutine()
     {
         if (spriteRenderer == null || !spriteRenderer.enabled) yield break;
         isFlashing = true;
-        Color originalColor = spriteRenderer.color;
-        spriteRenderer.color = Color.red; ;
+        spotLight.enabled = true;
         yield return new WaitForSeconds(0.1f);
 
-        spriteRenderer.color = originalColor;
+        spotLight.enabled = false;
         isFlashing = false;
     }
 }

@@ -9,7 +9,7 @@ public class ColoredOrbsPuzzle : MonoBehaviour
     private int currentOrderIndex = 0;
     private bool isShowingOrder; 
     [SerializeField] private float delayBetweenFlashes = 0.3f;
-    public void CheckCollectedOrb(int number)
+    public bool CheckCollectedOrb(int number)
     {
         if(number == order[currentOrderIndex])
         {
@@ -18,14 +18,21 @@ public class ColoredOrbsPuzzle : MonoBehaviour
             if (currentOrderIndex >=  order.Length)
             {
                 CheckForClear();
+
+                return true;
             }
-            
+
+            return true;
         }
 
         else if (number != order[currentOrderIndex])
         {
             Debug.Log("Errou");
+            return false;
+           
         }
+
+        return false;
     }
 
     private void CheckForClear()
